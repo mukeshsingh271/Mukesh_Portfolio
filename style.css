@@ -134,17 +134,17 @@ header nav ul li a:hover {
   display: flex;
   justify-content: space-between;
 }
-#education ul li span .right{
+/* #education ul li span .right{
   margin-left: auto;
-}
+} */
 
-#education ul li::before {
-  content: "•"; /* Custom bullet */
-  color: black; /* Bullet color */
+/* #education ul li::before {
+  content: "•";
+  color: black;
   font-size: 18px;
   position: absolute;
   left: 190px;
-}
+} */
 
 /* certification Section */
 #certification {
